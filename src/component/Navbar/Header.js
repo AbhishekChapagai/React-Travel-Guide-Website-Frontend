@@ -18,7 +18,7 @@ const Header = () => {
                         <img src={Logo}/>
                     </div>
                     <div className='btn_login_signup'>
-
+<p>Hello signup</p>
                     </div>
                 </div>
             </div>
